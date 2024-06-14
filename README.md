@@ -42,5 +42,8 @@ API - Vendas
 ## Docker compose
 > docker-compose up --build
 
+## Tutorial Docker Compose
+> docker-compose
+
 
 
